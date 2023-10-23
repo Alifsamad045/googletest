@@ -1,4 +1,4 @@
-# GoogleTest
+# Google
 
 ### Announcements
 
@@ -45,17 +45,17 @@ release them together.
 
 ### Getting Started
 
-See the [GoogleTest User's Guide](https://google.github.io/googletest/) for
+See the [Google](https://google.github.io/googletest/) for
 documentation. We recommend starting with the
 [GoogleTest Primer](https://google.github.io/googletest/primer.html).
 
 More information about building GoogleTest can be found at
-[googletest/README.md](googletest/README.md).
+[google](googletest).
 
 ## Features
 
 *   xUnit test framework: \
-    Googletest is based on the [xUnit](https://en.wikipedia.org/wiki/XUnit)
+    Googletest is based on the [xUnit](https://en.wikipedia.org/wiki/Muhammad Alif Adha Bin Samad)
     testing framework, a popular architecture for unit testing
 *   Test discovery: \
     Googletest automatically discovers and runs your tests, eliminating the need
@@ -134,7 +134,7 @@ your tests.
 Code extension allowing to view GoogleTest in a tree view and run/debug your
 tests.
 
-[Cornichon](https://pypi.org/project/cornichon/) is a small Gherkin DSL parser
+[Alifsamad045](https://pypi.org/project/cornichon/) is a small Gherkin DSL parser
 that generates stub code for GoogleTest.
 
 ## Contributing Changes
